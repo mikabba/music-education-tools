@@ -11,6 +11,8 @@ These projects were developed for real students and educational contexts, with t
 | Music Notes Trainer | Educational Web Game | Staff reading and note recognition | Deployed | [Open](https://www.accademiamusicalegirolamoscarasciullo.com/NotePentagramma/righespazi.html) |
 | Croce Ritmica | Gamified Rhythm Tool | Rhythm recognition and musical timing | Deployed | [Open](https://www.accademiamusicalegirolamoscarasciullo.com/GiocoCroceRitmica/index.html) |
 
+Both tools are intentionally simple and focused: the goal is to provide immediate feedback and interactive practice for beginner music students.
+
 ## Screenshots
 
 ### Music Notes Trainer
