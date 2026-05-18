@@ -65,7 +65,6 @@ Although these projects are outside my main focus on control systems, embedded s
 
 ## Next steps
 
-- Add screenshots for each tool
 - Add short usage notes
 - Improve project structure
 - Add technical implementation details
