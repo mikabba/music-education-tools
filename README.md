@@ -11,6 +11,16 @@ These projects were developed for real students and educational contexts, with t
 | Music Notes Trainer | Educational Web Game | Staff reading and note recognition | Deployed | [Open](https://www.accademiamusicalegirolamoscarasciullo.com/NotePentagramma/righespazi.html) |
 | Croce Ritmica | Gamified Rhythm Tool | Rhythm recognition and musical timing | Deployed | [Open](https://www.accademiamusicalegirolamoscarasciullo.com/GiocoCroceRitmica/index.html) |
 
+## Screenshots
+
+### Music Notes Trainer
+
+![Music Notes Trainer](assets/music-notes-trainer.png)
+
+### Croce Ritmica
+
+![Croce Ritmica](assets/croce-ritmica.png)
+
 ## Music Notes Trainer
 
 Music Notes Trainer is a lightweight educational web game designed to help beginner music students recognize notes on the staff through immediate visual feedback and score-based repetition.
