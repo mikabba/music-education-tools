@@ -23,7 +23,7 @@ Both tools are intentionally simple and focused: the goal is to provide immediat
 
 ### Music Notes Trainer
 
-![Music Notes Trainer](assets/music-notes-trainer.png)
+<img src="assets/music-notes-trainer.png" alt="Music Notes Trainer" width="600">
 
 Music Notes Trainer is an educational web game designed to help beginner music students recognize notes on the staff through visual feedback and score-based repetition.
 
@@ -44,7 +44,7 @@ Music Notes Trainer is an educational web game designed to help beginner music s
 
 ### Croce Ritmica
 
-![Croce Ritmica](assets/croce-ritmica.png)
+<img src="assets/croce-ritmica.png" alt="Croce Ritmica" width="600">
 
 Croce Ritmica is a gamified rhythm-learning web application designed to make rhythm recognition more engaging through interaction, scoring and achievement-based feedback.
 
@@ -85,6 +85,6 @@ These projects complement my main engineering portfolio by demonstrating my abil
 
 ## Repository role
 
-This is a showcase repository.
+This repository serves as the central index for my music education tools.
 
-Each mature tool is documented here and, where appropriate, maintained in its own dedicated repository with source code, screenshots, usage notes and implementation details.
+Each mature tool is documented here and maintained in its own dedicated repository with source code, screenshots, usage notes and implementation details.
