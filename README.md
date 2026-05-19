@@ -1,17 +1,63 @@
 # Music Education Tools
 
-A collection of interactive web tools and educational games designed to support music theory, solfeggio and rhythm training.
+A showcase repository for interactive web tools and educational games designed to support music theory, solfeggio and rhythm training.
 
-These projects were developed for real students and educational contexts, with the goal of transforming basic music-learning exercises into simple, visual and interactive web applications.
+The projects listed here were developed for real students and educational contexts, with the goal of transforming traditional music-learning exercises into simple, visual and interactive web applications.
+
+This repository acts as an entry point to individual tools, live demos and dedicated project repositories.
+
+---
 
 ## Projects
 
-| Project | Type | Learning Goal | Status | Live Demo |
-|---|---|---|---|---|
-| Music Notes Trainer | Educational Web Game | Staff reading and note recognition | Deployed | [Open](https://www.accademiamusicalegirolamoscarasciullo.com/NotePentagramma/righespazi.html) |
-| Croce Ritmica | Gamified Rhythm Tool | Rhythm recognition and musical timing | Deployed | [Open](https://www.accademiamusicalegirolamoscarasciullo.com/GiocoCroceRitmica/index.html) |
+| Project | Type | Learning Goal | Repository | Live Demo | Status |
+|---|---|---|---|---|---|
+| Music Notes Trainer | Educational Web Game | Staff reading and note recognition | [Repository](https://github.com/mikabba/music-notes-trainer) | [Open](https://www.accademiamusicalegirolamoscarasciullo.com/NotePentagramma/righespazi.html) | Deployed |
+| Croce Ritmica | Gamified Rhythm Tool | Rhythm recognition and musical timing | [Repository](https://github.com/mikabba/croce-ritmica) | [Open](https://www.accademiamusicalegirolamoscarasciullo.com/GiocoCroceRitmica/index.html) | Deployed |
 
-Both tools are intentionally simple and focused: the goal is to provide immediate feedback and interactive practice for beginner music students.
+Both tools are intentionally simple and focused: the goal is to provide immediate feedback, visual interaction and accessible practice for beginner music students.
+
+---
+
+## Featured tools
+
+### Music Notes Trainer
+
+Music Notes Trainer is an educational web game designed to help beginner music students recognize notes on the staff through visual feedback and score-based repetition.
+
+**Main features**
+
+- Interactive note recognition exercises
+- Staff-based visual learning
+- Immediate feedback
+- Score tracking
+- Simple interface for beginner students
+
+**Links**
+
+- [Live demo](https://www.accademiamusicalegirolamoscarasciullo.com/NotePentagramma/righespazi.html)
+- [Project repository](https://github.com/mikabba/music-notes-trainer)
+
+---
+
+### Croce Ritmica
+
+Croce Ritmica is a gamified rhythm-learning web application designed to make rhythm recognition more engaging through interaction, scoring and achievement-based feedback.
+
+**Main features**
+
+- Rhythm-based educational gameplay
+- Interactive user flow
+- Scoring logic
+- Leaderboard-style learning experience
+- Certificate generation
+
+**Links**
+
+- [Live demo](https://www.accademiamusicalegirolamoscarasciullo.com/GiocoCroceRitmica/index.html)
+- [Project repository](https://github.com/mikabba/croce-ritmica)
+
+---
 
 ## Screenshots
 
@@ -23,49 +69,30 @@ Both tools are intentionally simple and focused: the goal is to provide immediat
 
 ![Croce Ritmica](assets/croce-ritmica.png)
 
-## Music Notes Trainer
-
-Music Notes Trainer is a lightweight educational web game designed to help beginner music students recognize notes on the staff through immediate visual feedback and score-based repetition.
-
-### Main features
-
-- Interactive note recognition exercise
-- Visual staff-based learning
-- Immediate feedback
-- Score tracking
-- Simple interface for beginner students
-
-## Croce Ritmica
-
-Croce Ritmica is a gamified rhythm-learning web application designed to make rhythm recognition more engaging through interaction, scoring and achievement-based feedback.
-
-### Main features
-
-- Rhythm-based educational gameplay
-- User interaction flow
-- Scoring logic
-- Leaderboard-style learning experience
-- Certificate generation
+---
 
 ## Why this repository exists
 
-This repository collects small educational tools built around real learning needs.
+This repository collects educational web tools built around real learning needs.
 
-The goal is not only to provide exercises, but to design accessible web applications that make music theory and rhythm practice more interactive for students.
+The goal is to document small but complete applications that make music theory, solfeggio and rhythm practice more interactive, accessible and engaging for students.
+
+---
 
 ## Portfolio relevance
 
-Although these projects are outside my main focus on control systems, embedded systems and model-based engineering, they demonstrate my ability to:
+These projects complement my main engineering portfolio by demonstrating my ability to:
 
-- design user-facing software tools;
-- translate real educational needs into working applications;
-- build and deploy lightweight web applications;
-- create simple interfaces for non-technical users;
-- document practical software projects clearly.
+- translate real educational needs into working software tools;
+- design simple interfaces for non-technical users;
+- build and deploy user-facing web applications;
+- implement interaction logic, scoring systems and feedback mechanisms;
+- organize small applications into documented, reusable project repositories.
 
-## Next steps
+---
 
-- Add short usage notes
-- Improve project structure
-- Add technical implementation details
-- Consider moving mature tools into standalone repositories
+## Repository role
+
+This is a showcase repository.
+
+Each mature tool is documented here and, where appropriate, maintained in its own dedicated repository with source code, screenshots, usage notes and implementation details.
