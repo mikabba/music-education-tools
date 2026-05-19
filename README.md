@@ -14,7 +14,7 @@ This repository acts as an entry point to individual tools, live demos and dedic
 |---|---|---|---|---|---|
 | Music Notes Trainer | Educational Web Game | Staff reading and note recognition | [Repository](https://github.com/mikabba/music-notes-trainer) | [Open](https://www.accademiamusicalegirolamoscarasciullo.com/NotePentagramma/righespazi.html) | Deployed |
 | Croce Ritmica | Gamified Rhythm Tool | Rhythm recognition, subdivision and musical timing | [Repository](https://github.com/mikabba/croce-ritmica) | [Open](https://www.accademiamusicalegirolamoscarasciullo.com/GiocoCroceRitmica/index.html) | Deployed |
-| Scrolling Notes Trainer | Real-Time Staff Reading Tool | First-sight note-reading fluency and continuous staff reading | [Repository](https://github.com/mikabba/scrolling-notes-trainer) | Coming soon | Documented |
+| Scrolling Notes Trainer | Real-Time Staff Reading Tool | First-sight note-reading fluency and continuous staff reading | [Repository](https://github.com/mikabba/scrolling-notes-trainer) | [Open](https://mikabba.github.io/scrolling-notes-trainer/) | Deployed |
 
 These tools are intentionally focused: each one targets a specific music-learning need through immediate feedback, visual interaction, repetition or real-time practice.
 
@@ -90,7 +90,7 @@ Scrolling Notes Trainer is a lightweight real-time staff-reading tool designed t
 
 **Links**
 
-- Live demo: Coming soon
+- [Open](https://mikabba.github.io/scrolling-notes-trainer/)
 - [Project repository](https://github.com/mikabba/scrolling-notes-trainer)
 
 ---
