@@ -90,7 +90,7 @@ Scrolling Notes Trainer is a lightweight real-time staff-reading tool designed t
 
 **Links**
 
-- [Open](https://mikabba.github.io/scrolling-notes-trainer/)
+- [Live demo](https://mikabba.github.io/scrolling-notes-trainer/)
 - [Project repository](https://github.com/mikabba/scrolling-notes-trainer)
 
 ---
