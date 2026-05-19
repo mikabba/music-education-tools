@@ -23,6 +23,8 @@ Both tools are intentionally simple and focused: the goal is to provide immediat
 
 ### Music Notes Trainer
 
+![Music Notes Trainer](assets/music-notes-trainer.png)
+
 Music Notes Trainer is an educational web game designed to help beginner music students recognize notes on the staff through visual feedback and score-based repetition.
 
 **Main features**
@@ -42,6 +44,8 @@ Music Notes Trainer is an educational web game designed to help beginner music s
 
 ### Croce Ritmica
 
+![Croce Ritmica](assets/croce-ritmica.png)
+
 Croce Ritmica is a gamified rhythm-learning web application designed to make rhythm recognition more engaging through interaction, scoring and achievement-based feedback.
 
 **Main features**
@@ -56,18 +60,6 @@ Croce Ritmica is a gamified rhythm-learning web application designed to make rhy
 
 - [Live demo](https://www.accademiamusicalegirolamoscarasciullo.com/GiocoCroceRitmica/index.html)
 - [Project repository](https://github.com/mikabba/croce-ritmica)
-
----
-
-## Screenshots
-
-### Music Notes Trainer
-
-![Music Notes Trainer](assets/music-notes-trainer.png)
-
-### Croce Ritmica
-
-![Croce Ritmica](assets/croce-ritmica.png)
 
 ---
 
