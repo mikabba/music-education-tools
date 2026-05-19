@@ -23,7 +23,9 @@ Both tools are intentionally simple and focused: the goal is to provide immediat
 
 ### Music Notes Trainer
 
-<img src="assets/music-notes-trainer.png" alt="Music Notes Trainer" width="600">
+<p align="center">
+  <img src="assets/music-notes-trainer.png" alt="Music Notes Trainer" width="500">
+</p>
 
 Music Notes Trainer is an educational web game designed to help beginner music students recognize notes on the staff through visual feedback and score-based repetition.
 
@@ -44,7 +46,9 @@ Music Notes Trainer is an educational web game designed to help beginner music s
 
 ### Croce Ritmica
 
-<img src="assets/croce-ritmica.png" alt="Croce Ritmica" width="600">
+<p align="center">
+  <img src="assets/croce-ritmica.png" alt="Croce Ritmica" width="500">
+</p>
 
 Croce Ritmica is a gamified rhythm-learning web application designed to make rhythm recognition more engaging through interaction, scoring and achievement-based feedback.
 
